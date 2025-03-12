@@ -2,6 +2,8 @@
 
 DistiQAT is a framework for efficient semantic segmentation using a combination of knowledge distillation and quantization-aware training (QAT). The project focuses on optimizing SegFormer models for better efficiency while maintaining performance.
 
+![Training Report](wandb.png)
+
 ## Overview
 
 This project implements techniques to make semantic segmentation models more efficient and deployable in resource-constrained environments:
